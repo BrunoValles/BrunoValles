@@ -1,6 +1,8 @@
-- Hello there!, I’m @BrunoValles
+## <div align="middle">  Hello there! </br>  I’m @BrunoValles 
 
-- I’m currently learning Selenium, Javascript and React....
+
+
+- I’m currently learning Selenium, Javascript and React.
 - You can reach me on bruno.valles.work@gmail.com
 
 <!---
