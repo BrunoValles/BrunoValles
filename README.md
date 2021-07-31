@@ -2,7 +2,6 @@
 
 
 
-- I’m currently learning Javascript, specifically Node, Express and React.
 - You can reach me on bruno.valles.work@gmail.com
 
 <!---
