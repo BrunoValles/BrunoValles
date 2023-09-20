@@ -2,7 +2,7 @@
 
 
 
-- You can reach me on bruno.valles.work@gmail.com
+- You can reach me through bruno.valles.work@gmail.com
 
 <!---
 BrunoValles/BrunoValles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
